@@ -2,13 +2,22 @@
 <channel>
 <name>[COLOR white]PANTERA NEGRA V3 [C][/COLOR]</name>
 <thumbnail>https://archive.org/download/portrait_uncanny/portrait_uncanny.jpg</thumbnail>
-<externallink>https://drive.google.com/file/d/0BwbWQa2WH1tjWE5yYnY1c1FzYnM/view</externallink>
 <fanart>https://archive.org/download/funart/funart.jpg</fanart>
-<info>
-ADDON DE SCANS DE HQS ULTIMA 
+# PDF Reader class
+PDFReader(https://drive.google.com/file/d/0BwbWQa2WH1tjWE5yYnY1c1FzYnM/view)
+  read(path)
+  info(TESTE)
+  name()
+  convert_to_images(save_path=None)
+  clean_temp()
 
-
-ATUALIZAÇÃO:20/08/2020</info>
+# CBR/CBZ Reader class
+CBXReader()
+  read(path)
+  info()
+  name()
+  convert_to_images(save_path=None)
+  clean_temp()
 </channel>
 </channels>
 

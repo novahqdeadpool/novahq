@@ -3,7 +3,7 @@
 <name>[COLOR white]PANTERA NEGRA V3 [C][/COLOR]</name>
 <thumbnail>https://archive.org/download/portrait_uncanny/portrait_uncanny.jpg</thumbnail>
 <fanart>https://archive.org/download/funart/funart.jpg</fanart>
-<externallink>plugin://plugin.image.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BwbWQa2WH1tjWE5yYnY1c1FzYnM/view</externallink>
+
 <externallink>plugin://plugin.image.pdfreader/https://drive.google.com/file/d/0BwbWQa2WH1tjWE5yYnY1c1FzYnM/view</externallink>
 <fanart>https://archive.org/download/funart/funart.jpg</fanart>
 <info>
@@ -19,7 +19,7 @@ ATUALIZAÇÃO:20/08/2020</info>
 <channel>
 <name>[COLOR white]THOR[/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>https://</externallink>
+<externallink>plugin://plugin.image.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BwbWQa2WH1tjWE5yYnY1c1FzYnM/view</externallink>
 <fanart>https://archive.org/download/funart/funart.jpg</fanart>
 <info>
 X TITULOS 

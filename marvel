@@ -1,30 +1,25 @@
-<channels>
-<channel>
-<name>[COLOR white]PANTERA NEGRA V3 [C0][/COLOR]</name>
+
+<item>
+<title>[COLOR white]PANTERA NEGRA V3 [C][/COLOR]</title>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/SBRGCNTRTDS.mp4?attachment=true$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <thumbnail>https://archive.org/download/portrait_uncanny/portrait_uncanny.jpg</thumbnail>
 <fanart>https://archive.org/download/funart/funart.jpg</fanart>
-
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/SBRGCNTRTDS.mp4?attachment=true$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
-<fanart>https://archive.org/download/funart/funart.jpg</fanart>
-<info>
-X TITULOS 
+<info>X TITULOS 
 
 ATUALIZAÇÃO:20/08/2020</info>
-</channel>
-</channels>
+<genre></genre>
+</item>
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR white]THOR[/COLOR]</name>
-<thumbnail>https://</thumbnail>
+<item>
+<title>[COLOR white]THOR[/COLOR]</title>
 <link>plugin://plugin.image.pdfreader?url=https://drive.google.com/file/d/0B4CJ8MQ5Gzi0N3FNNFJzNmctd0k/preview$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
+<thumbnail></thumbnail>
 <fanart>https://archive.org/download/funart/funart.jpg</fanart>
-<info>
-X TITULOS 
+<info>X TITULOS 
 
 ATUALIZAÇÃO:20/08/2020</info>
-</channel>
-</channels>
+<genre></genre>
+</item>

@@ -4,7 +4,7 @@
 <thumbnail>https://archive.org/download/portrait_uncanny/portrait_uncanny.jpg</thumbnail>
 <fanart>https://archive.org/download/funart/funart.jpg</fanart>
 
-<externallink>https://playplus.azureedge.net/RCFServer5/ondemand/SBRGCNTRTDS.mp4?attachment=true</externallink>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/SBRGCNTRTDS.mp4?attachment=true$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <fanart>https://archive.org/download/funart/funart.jpg</fanart>
 <info>
 X TITULOS 
@@ -13,13 +13,14 @@ ATUALIZAÇÃO:20/08/2020</info>
 </channel>
 </channels>
 
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
 <name>[COLOR white]THOR[/COLOR]</name>
 <thumbnail>https://</thumbnail>
-<externallink>plugin://plugin.image.pdfreader?url=https://drive.google.com/file/d/0B4CJ8MQ5Gzi0N3FNNFJzNmctd0k/preview</externallink>
+<link>plugin://plugin.image.pdfreader?url=https://drive.google.com/file/d/0B4CJ8MQ5Gzi0N3FNNFJzNmctd0k/preview$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <fanart>https://archive.org/download/funart/funart.jpg</fanart>
 <info>
 X TITULOS 
